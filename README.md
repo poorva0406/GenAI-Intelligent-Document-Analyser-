@@ -6,7 +6,7 @@ A local-first GenAI application for reviewing contracts and business documents: 
 
 ## Project status
 
-This repository is under active development, built phase by phase. The table below is the source of truth for what works today.
+This repository is under active development. The table below is the source of truth for what works today.
 
 | Phase | Scope | Status |
 |---|---|---|
